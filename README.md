@@ -1,2 +1,3 @@
-# factorial-recursive
-Finding Factorial of a number we take from user, and the same program with recursive method.
+# Finding Factorial
+
+To practice algorithms and learning recursive functions..
